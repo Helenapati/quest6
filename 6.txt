@@ -1,0 +1,9 @@
+public class {
+    public static void main(String[] args) {
+        Loop = 
+               x1 = a
+               x2 = y 
+               h = x1 + x2
+               System.out.println("Redultado é:" + h);
+    }
+}
